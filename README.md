@@ -14,7 +14,7 @@ lxml parser
 
 Installation
 Clone this repository:
-### `git clone https://github.com/your-username/stackoverflow-python-scraper.git`
+#### `git clone https://github.com/your-username/stackoverflow-python-scraper.git`
 ### `cd stackoverflow-python-scraper`
 
 Install the required dependencies:

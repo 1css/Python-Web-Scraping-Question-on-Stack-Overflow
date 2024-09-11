@@ -15,19 +15,19 @@ lxml parser
 Installation
 Clone this repository:
 #### `git clone https://github.com/your-username/stackoverflow-python-scraper.git`
-### `cd stackoverflow-python-scraper`
+#### `cd stackoverflow-python-scraper`
 
 Install the required dependencies:
-### `pip install requests`
-### `pip install beautifulsoup4`
-### `pip install lxml`
+#### `pip install requests`
+#### `pip install beautifulsoup4`
+#### `pip install lxml`
 
 
 Usage
 To scrape the latest Python questions from Stack Overflow:
 
 Run the following script:
-### `python scraper.py`
+#### `python scraper.py`
 
 
 The script will make a GET request to the Stack Overflow Python questions page, parse the content, and display the structured HTML in the terminal.
